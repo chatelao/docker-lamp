@@ -18,7 +18,7 @@ RUN apt-get install -y \
 	php7.0-cli \
 	php7.0-common \
 	php7.0-curl \
-	php7.0-dbg \
+#	php7.0-dbg \
 	php7.0-dev \
 	php7.0-enchant \
 	php7.0-fpm \
